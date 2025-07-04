@@ -16,3 +16,7 @@ Identify key trends and patterns within the survey responses.
 
 ## Dataset
 The dataset used in this project is sourced from the official Stack Overflow Developer Survey 2020. You can access the raw data and official analysis here:-https://survey.stackoverflow.co/
+
+
+## Project Notebook
+The entire analysis, including data cleaning, visualization, and insights, is documented in a Jupyter notebook.
